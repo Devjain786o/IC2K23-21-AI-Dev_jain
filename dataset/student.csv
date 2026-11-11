@@ -1,0 +1,24 @@
+| Student_ID | Gender | CGPA | Internships | Course                 | Placement |
+| ---------- | ------ | ---- | ----------- | ---------------------- | --------- |
+| 1          | Male   | 8.2  | 2           | Computer Science       | Yes       |
+| 2          | Female | 7.5  | 1           | Information Technology | Yes       |
+| 3          | Male   | 6.0  | 0           | Mechanical             | No        |
+| 4          | Female | 9.0  | 3           | Computer Science       | Yes       |
+| 5          | Male   | 5.6  | 0           | Mechanical             | No        |
+| 6          | Female | 7.9  | 2           | Information Technology | Yes       |
+| 7          | Male   | 6.7  | 1           | Computer Science       | No        |
+| 8          | Female | 9.2  | 3           | Computer Science       | Yes       |
+| 9          | Male   | 7.1  | 1           | Information Technology | Yes       |
+| 10         | Female | 5.4  | 0           | Mechanical             | No        |
+| 11         | Male   | 8.4  | 2           | Computer Science       | Yes       |
+| 12         | Female | 6.2  | 0           | Mechanical             | No        |
+| 13         | Male   | —    | 2           | Information Technology | Yes       |
+| 14         | Female | 7.6  | —           | Computer Science       | Yes       |
+| 15         | Male   | 5.8  | 0           | Mechanical             | No        |
+| 16         | Female | 8.8  | 3           | Information Technology | Yes       |
+| 17         | Male   | 6.9  | 1           | Mechanical             | No        |
+| 18         | Female | 9.4  | 3           | Computer Science       | Yes       |
+| 19         | Male   | 7.3  | 2           | Information Technology | Yes       |
+| 20         | Female | 5.9  | 0           | Mechanical             | No        |
+
+— indicates a missing value.
